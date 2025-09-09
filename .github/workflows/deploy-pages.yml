@@ -1,7 +1,7 @@
 # This is a reusable workflow for deploying static content to GitHub Pages.
 # It can be called from other workflows to centralize deployment logic.
 
-name: Reusable Deploy to Pages
+name: Template to deploy static content to Pages
 
 on:
   # This makes the workflow reusable by other workflows.
